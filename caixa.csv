@@ -1,0 +1,16 @@
+prim_key;operacao;funcionario;produto;fornecedor;cliente;quantidade;valor;data
+1;saida;diogo;pgto fornecedor;Isabelle e Larissa Telas ME;pedro;1;1000;2022-11-03
+2;entrada;daniel;cerveja;Valentina e Benjamin Adega Ltda;sofia;1;9;2022-11-01
+3;entrada;amanda;café;café do ponto;Ecel mat eletricos;2;8;2022-11-02
+4;entrada;daniel;bolacha;Juan e Lorena Restaurante Ltda;graziela;1;3;2022-11-01
+5;entrada;daniel;chocolate;himalaia;douglas;1;4;2022-11-01
+6;entrada;amanda;chiclete;himalaia;qualquer;1;3;2022-11-01
+7;entrada;amanda;bolacha;himalaia;bruno;1;3;2022-11-02
+8;entrada;amanda;chiclete;himalaia;bruno;1;3;2022-11-02
+9;entrada;daniel;pastel;pasteluti;manuela;1;5;2022-11-01
+10;entrada;amanda;pastel;pasteluti;joao;1;5;2022-11-02
+11;entrada;amanda;pastel;pasteluti;marcos;1;5;2022-11-03
+12;saida;diogo;pgto fornecedor;rge;bruno;1;800;2022-11-03
+13;entrada;daniel;refrigerante;vompar;qualquer;1;5;2022-11-01
+14;entrada;amanda;refrigerante;vompar;filipe;1;5;2022-11-02
+15;saida;diogo;pgto fornecedor;vompar;joao;1;500;2022-11-03

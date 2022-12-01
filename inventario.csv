@@ -1,0 +1,16 @@
+pk;nome_referencia;local;R$
+1;pratreleira 1;deposito;200
+2;pratreleira 2;deposito;200
+3;prateleira 3;deposito;200
+4;balcao 1;frente de caixa;1500
+5;balcao 2;frente de caixa;1000
+6;balcao 3;frente de caixa;2500
+7;estufa;fast food;500
+8;microondas;fast food;500
+9;forno;fast food;800
+10;geladeira 1 bebidas;refrigerados;3000
+11;geladeira 1 cervejas;refrigerados;4000
+12;geladeira 2 bebida;refrigerados;3000
+13;geladeira 2 cerveja;refrigerados;4000
+14;freezer picole;fast food;3000
+5;computador;frente de caixa;3000

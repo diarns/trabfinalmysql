@@ -1,0 +1,53 @@
+erDiagram
+          CAIXA }|..|{ FUNCIONARIO: funcionari_responsavel_pelo
+          CAIXA ||--|{ CUSTO : possuem
+          CAIXA ||--|{ ESTOQUE  : entra_sai
+          CAIXA ||--|{ CLIENTE : nome
+          ESTOQUE ||--|{ FORNECEDOR : possuem
+          FORNECEDOR ||--|{ CLIENTE : cpfcnpj
+          INVENTARIO ||--|{ ESTOQUE : local
+          
+
+          
+CAIXA {
+    int operacao
+    string nome_funcionario
+    string nome_fornecedor
+    string nome_produto
+    string nome_cliente
+    int qtde
+    int valor
+    dateFormat data 
+}
+FORNECEDOR {
+    string nome_fornecedor
+    int cpf_cnpj
+    int telefone_contato
+}
+CLIENTE {
+    string nome_cliente
+    int cpf_cnpj
+    int telefone_contato
+}
+ESTOQUE {
+    string nome_produto
+    string nome_fornecedor
+    string grupo_afinidade
+    string local
+}
+INVENTARIO {
+    string nome_bem
+    int valor
+    dateFormat data 
+    string local
+}
+FUNCIONARIO {
+    string nome_funcionario
+    int cpf_cnpj
+    int telefone_contato
+}
+CUSTO { 
+    dateFormat data
+    string Nome_fornecedor
+    int valor    
+} 

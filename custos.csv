@@ -1,0 +1,15 @@
+PK;tipo 2;tipo;empresa;valor;data
+1;fixo;despesa;Isabelle e Larissa Telas ME;1000;3/11/22 0:00
+2;fixo;custo;Cláudia e Luan Marketing ME;200;20/11/22 0:00
+3;fixo;despesa;Valentina e Benjamin Adega Ltda;150;14/11/22 0:00
+4;fixo;custo;Benício e Isabelly Contábil Ltda;100;23/11/22 0:00
+5;fixo;despesa;Clarice e Edson Financeira ME;300;12/11/22 0:00
+6;fixo;custo;Isadora e Isabelly Advocacia Ltda;120;3/11/22 0:00
+7;fixo;despesa;vompar;340;20/11/22 0:00
+8;fixo;custo;Ricardo e Manuel Contábil ME;121;14/11/22 0:00
+9;variavel;despesa;Juan e Lorena Restaurante Ltda;185;23/11/22 0:00
+10;variavel;custo;Isadora e Allana Doces & Salgados ME;432;12/11/22 0:00
+11;variavel;despesa;Cauã e Regina Marcenaria ME;234;3/11/22 0:00
+12;variavel;custo;himalaia;129;20/11/22 0:00
+13;variavel;despesa;pasteluti;125;14/11/22 0:00
+14;variavel;custo;rge;800;3/11/22 0:00

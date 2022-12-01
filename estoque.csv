@@ -1,0 +1,15 @@
+Pk;produto;fornecedor;grupo_afinidade;qtde_estoque;valor_custo;valor_venda
+1;bolacha;himalaia;grupo;5;1;3
+2;cafe;café do ponto;bebida;20;5;8
+3;cerveja;ambev;bebida;100;5;9
+4;chiclete;himalaia;bomboniere;50;2;3
+5;chocolate;himalaia;bomboniere;20;2;4
+6;pastel;pasteluti;comida;10;4;5
+7;refrigerante;vompar;bebida;50;3;5
+8;cigarro;souza cruz;cigarro;50;7;8
+9;papel higienico;himalaia;outros;3;4;6
+10;guardanapo;himalaia;outros;5;4;6
+11;alcool;himalaia;outros;5;2;5
+12;vinho;vinicola perini;bebida;5;20;30
+13;suco;vinicola perini;bebida;5;5;8
+14;pilha;himalaia;outros;3;8;12
