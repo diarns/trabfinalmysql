@@ -1,0 +1,16 @@
+pk_operacao;operacao;funcionario;produto;id_forn;cliente;quantidade;valor;data
+1;saida;diogo;pgto fornecedor;1;pedro;1;1000;2022-11-03
+2;entrada;daniel;cerveja;3;sofia;1;9;2022-11-01
+2;entrada;amanda;café;4;ecel mat eletricos;2;8;2022-11-02
+2;entrada;daniel;bolacha;10;graziela;1;3;2022-11-01
+2;entrada;daniel;chocolate;5;douglas;1;4;2022-11-01
+2;entrada;amanda;chiclete;5;qualquer;1;3;2022-11-01
+2;entrada;amanda;bolacha;5;bruno;1;3;2022-11-02
+2;entrada;amanda;chiclete;5;bruno;1;3;2022-11-02
+2;entrada;daniel;pastel;6;manuela;1;5;2022-11-01
+2;entrada;amanda;pastel;6;joao;1;5;2022-11-02
+2;entrada;amanda;pastel;6;marcos;1;5;2022-11-03
+1;saida;diogo;pgto fornecedor;7;bruno;1;800;2022-11-03
+2;entrada;daniel;refrigerante;8;qualquer;1;5;2022-11-01
+2;entrada;amanda;refrigerante;8;filipe;1;5;2022-11-02
+1;saida;diogo;pgto fornecedor;8;joao;1;500;2022-11-03
